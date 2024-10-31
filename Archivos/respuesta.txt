@@ -1,0 +1,3 @@
+No me permitió hacer commit, dado que la carpeta estaba vacía.
+
+teniendo en cuenta esto, aparece un error dado que la carpeta no cuenta con información. 
