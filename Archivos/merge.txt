@@ -1,2 +1,0 @@
-No me permitio subir la carpeta dado a que estaba vacia, me permitio guardar los cambios (commit)
-depues de haber agregado informacion o un archivo dentro de esta
