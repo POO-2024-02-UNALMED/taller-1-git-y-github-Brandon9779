@@ -1,3 +1,10 @@
+no se pudo guardar la capeta debido a la falta de archivos dentro de esta.
+Para poder subir una carpeta necesita tenr archivos dentro
+
 Brandon Rincon
 19 años
 Espero mejor mis funciones como programador y adquirir de manera eficaz nuevos conocimientos
+
+es importante tener en cuenta a la hora de modificar un archivo en diferentes ubicaciones 
+por el cambio de informacion que se ve en el archivo, se presenta un conflicto al intentar modificar 
+un archico desde distintas ubicaciones.
