@@ -1,0 +1,2 @@
+no se pudo guardar la capeta debido a la falta de archivos dentro de esta.
+Para poder suvir una carpeta necesita tenr archivos dentro
